@@ -1,0 +1,3 @@
+Ali 101 90.5 
+Bandar 102 85.0
+Abdullah 103 78.5
